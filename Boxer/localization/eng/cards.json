@@ -1,3 +1,9 @@
 {
   
+  "BASIC CARDS": "",
+  
+  "BOXER-STRIKE_BOXER.description": "#Deal !D! damage.",
+  "BOXER-STRIKE_BOXER.title": "Strike",
+  "BOXER-DEFEND_BOXER.description": "#Gain !B! Block.",
+  "BOXER-DEFEND_BOXER.title": "Defend"
 }

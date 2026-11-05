@@ -62,9 +62,16 @@
     </ItemGroup>
 
     <ItemGroup>
+        <Folder Include="BoxerCode\Cards\Common\" />
+        <Folder Include="BoxerCode\Cards\Rare\" />
+        <Folder Include="BoxerCode\Cards\Uncommon\" />
         <Folder Include="Boxer\images\card_portraits\big\"/>
         <Folder Include="Boxer\images\powers\big\"/>
         <Folder Include="Boxer\images\relics\big\"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="README.md" />
     </ItemGroup>
 
     <Target Name="CheckDependencyPaths">
